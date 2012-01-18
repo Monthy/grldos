@@ -1,0 +1,1 @@
+Aquí van los iconos, tamaño de 32x32 pixel en formato *.png, *.jpg, *.gif, *.bmp, *.lbm, *.pcx, *.tga.

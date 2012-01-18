@@ -1,0 +1,1 @@
+<zipes title="7Zip v4.61" exe="utils\\7zip\\7za.exe" param="x {source} -o{destination}"/>

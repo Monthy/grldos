@@ -1,0 +1,28 @@
+-  Instalación básica
+-----------------------------------
+
+Para compilar esta aplición se necesita:
+Entorno de programación:
+DJGPP				v2.03	http://www.delorie.com/djgpp/
+
+Librearias necesarias:
+libReadINI			v0.8f	http://david.dantoine.org/proyecto/13/
+Allegro				v4.22	ftp://ftp.delorie.com/pub/djgpp/current/v2tk/allegro/
+Adime GUI Allegro	v2.2.1	http://adime.sourceforge.net/
+JPGalleg			v2.5	http://www.ecplusplus.com/index.php?page=projects&pid=1
+loadPNG				v2.5	http://www.libpng.org/pub/png/
+zlib				v1.25	ftp://ftp.delorie.com/pub/djgpp/current/v2tk/
+Allegro GIF Addon	v1.2	http://prdownloads.sourceforge.net/algif/algif_1.2.zip?download
+AllegroFont			v1.9.1	http://chernsha.sitesled.com/
+
+
+Una vez intalado y compilado todo lo necesario:
+
+  1. Abre una ventana de command: Inicio->ejecutar: cmd
+  2. Nos situamos en el directorio del código fuente
+  3. Ejecuta "make"
+
+
+-----------------------------------
+Monthy <ermonthy@gmail.com>
+http://www.gr-lida.org/

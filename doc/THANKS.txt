@@ -1,0 +1,7 @@
+A David Colmenero (D_Skywalk) ----- libReadINI
+A los desarrolladores de ---------- Allegro
+A Sven Sandberg ------------------- Adime GUI Allegro
+A Angelo Mottola ------------------ JPGalleg
+A Peter Wang ---------------------- loadPNG
+A Elias Pschernig ----------------- Allegro GIF Addon
+A Dustin Dettmer ------------------ XML xmlparser DUI
